@@ -8,13 +8,6 @@
 
 **当前版本：2.0.0** · Android 6.0 及以上
 
-发布到 GitHub 后，把下面链接中的账号名和仓库名替换为实际值：
-
-- 版本页面：`https://github.com/你的账号/你的仓库/releases/latest`
-- APK 直链：`https://github.com/你的账号/你的仓库/releases/latest/download/JimuTV-2.0.0.apk`
-
-请从 **Releases** 下载正式版 APK。不要安装仓库中的内部测试包，也不要使用来历不明的重签安装包。
-
 ## 主要功能
 
 - **电视大屏布局**：Apple TV 风格的应用栏、清晰焦点和遥控器导航。
