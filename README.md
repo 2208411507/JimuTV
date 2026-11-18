@@ -6,7 +6,7 @@
 
 ## 下载
 
-**[当前版本：2.0.0** · Android 6.0 及以上](https://github.com/2208411507/-Jimu-tv/releases/tag/v2.0.0)
+[当前版本：2.0.0** · Android 6.0 及以上](https://github.com/2208411507/-Jimu-tv/releases/tag/v2.0.0)
 
 ## 主要功能
 
